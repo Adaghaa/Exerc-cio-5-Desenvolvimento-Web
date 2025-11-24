@@ -42,7 +42,9 @@
 					echo "<p> Nenhum contato encontrado :(</p>";
 				}}
 		?>
-
+		<a href="index.php">
+			<button class = "index">Voltar</button>
+		</a>
 		<div class = "lista">
 		<h2> Contatos Adicionados: </h2>
 		
@@ -121,3 +123,4 @@
 		
 </body>
 </html>
+
